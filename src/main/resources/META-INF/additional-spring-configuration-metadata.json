@@ -1,0 +1,14 @@
+{
+    "properties": [
+        {
+            "name": "api.key.header",
+            "type": "java.lang.String",
+            "description": "Header name for API key."
+        },
+        {
+            "name": "api.key.value",
+            "type": "java.lang.String",
+            "description": "Key to access API."
+        }
+    ]
+}

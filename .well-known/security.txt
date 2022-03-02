@@ -1,0 +1,4 @@
+Contact: mailto:info@herrschinghilft.de
+Encryption: mailto:info@herrschinghilft.de
+Preferred-Languages: en
+Canonical: https://herrschinghilft.de/.well-known/security.txt
